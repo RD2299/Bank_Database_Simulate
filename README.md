@@ -80,7 +80,7 @@ MySQL Bank Database design.
 * OB Custormer Acconut Number
 * OB Customer Bank Code
 
-#### Account Type
+#### Account Info
 
 * Account code
 * Account name

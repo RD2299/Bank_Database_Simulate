@@ -1,6 +1,7 @@
 # Bank_Database_Simulate
 MySQL Bank Database design. 
 Aim is to create a SQL Bank Database. Other versions should be added to a new branch. Mention changes that are there compared to main branch and/or if your branch is addressing a particular department inside a bank and is a separate database for that only. 
+Currently contribute via adding new branches for newer versions and discuss with others, but do not ask for merge requests. This repository is made so that first time entrants into the world of MySQL get a understanding of how a Bank database is designed, its components, passing queries, entering data etc.
 
 ## ERR Diagram
 ![Bank Database 2 ERR diagram](https://user-images.githubusercontent.com/104694320/168591760-b03a2cd8-fcb8-4ba0-a629-86e50f2bdb09.png)
